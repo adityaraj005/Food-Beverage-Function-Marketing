@@ -76,7 +76,7 @@ Turning **raw data** into **business intelligence** is where the magic happens. 
 
 ## Video Walkthrough – Bringing the Insights to Life
 Rather **watch** than read? Check out our **detailed presentation** explaining the project insights.
-👉 **[Watch the Presentation](#)**
+👉 **[Watch the Presentation](https://www.youtube.com/embed/DJ63hdYJpng?si=wpJ9jav54ny132PF)**
 
 ---
 
